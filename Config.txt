@@ -1,0 +1,1 @@
+files_dir = "C:\Users\ASUS\PycharmProjects\logsParser\logs.txt"
